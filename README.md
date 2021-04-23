@@ -1,4 +1,4 @@
-# Hard-Rock-API
+# Hard Rock Music
 
 * ###### [*Song API link*](https://api.lyrics.ovh/suggest/:searchText)
 
